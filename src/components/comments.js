@@ -8,9 +8,9 @@ export const DOCIMAGES =
         size : 27,
         date: "2012-10-16T17:57:28.556094Z",
         child:[
-            {id:0,name:"child base 1 image",description:"child base 1 image"},
-            {id:1,name:"child base 2 image",description:"child base 2 image"},
-            {id:2,name:"child base 3 image",description:"child base 3 image"}
+            {id:0,name:"child base 1 image",description:"Base 1 image / child base 1 image"},
+            {id:1,name:"child base 2 image",description:"Base 1 image / child base 2 image"},
+            {id:2,name:"child base 3 image",description:"Base 1 image / child base 3 image"}
         ]
     },
     {
@@ -21,8 +21,8 @@ export const DOCIMAGES =
         size : 19,
         date: "2014-09-05T17:57:28.556094Z",
         child:[
-            {id:0,name:"child base 1 image",description:"child base 1 image"},
-            {id:1,name:"child base 2 image",description:"child base 2 image"}
+            {id:0,name:"child base 1 image",description:"Base 2 image / child base 1 image"},
+            {id:1,name:"child base 2 image",description:"Base 2 image / child base 2 image"}
         ]
     },
     {
@@ -33,7 +33,7 @@ export const DOCIMAGES =
         size : 23,
         date: "2015-02-13T17:57:28.556094Z",
         child:[
-            {id:0,name:"child base 1 image",description:"child base 1 image"}
+            {id:0,name:"child base 1 image",description:"Base 3 image / child base 1 image"}
         ]
     }
 ]
